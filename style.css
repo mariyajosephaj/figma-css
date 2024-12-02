@@ -1,0 +1,55 @@
+*{
+    font-family: "Timmana", sans-serif;
+}
+nav li{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+    font-weight: normal;
+}
+ #search{
+    border-radius: 20px;
+    background: #F0F0F0;
+}
+.pdt-img{
+    height: 280px;
+    width: 250px;
+   
+}
+.checked {
+    color: orange;
+  }
+  .dot {
+    height: 35px;
+    width: 35px;
+    
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .review{
+    height: 220px;
+  }
+  .icon-collection{
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    margin-top: 5%;
+}
+.icon{
+     border: solid 1px;  
+    height: 50px;
+    width: 50px;  
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 10px;
+    color: black;
+}
+.brands{
+  color: black;
+  font-size: 30px;
+}
+  
